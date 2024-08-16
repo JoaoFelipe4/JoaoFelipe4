@@ -31,10 +31,6 @@
 ![Static Badge](https://img.shields.io/badge/Code-Python-grey?logo=Python&logoColor=white&labelColor=%23306998&color=%23FFD43B)
 
 
-![Static Badge](https://img.shields.io/badge/Style-Bootstrap-grey?logo=Bootstrap&logoColor=%23684D95&color=%23684D95)
-![Static Badge](https://img.shields.io/badge/Style-CSS5-grey?logo=CSS3&color=%23264de4)
-
-
 ![Static Badge](https://img.shields.io/badge/Data-Excel-grey?logo=Microsoft%20Excel&color=%2368A063)
 
 
