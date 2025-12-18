@@ -9,7 +9,7 @@
 
 ## :boy: Sobre mim
 - :computer: Cursando Engenharia da Computação
-- :bar_chart: Excel Exprert
+- :bar_chart: Excel Expert
 
 ## :wrench: Atualmente trabalhando com
 
