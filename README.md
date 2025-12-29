@@ -64,6 +64,23 @@ No desenvolvimento, possuo conhecimentos complementares em Python, Shell Script 
 [Atividade será exibida automaticamente com github-readme-activity-generator]
 <!--END_SECTION:activity-->
 
+
+## 📜 Certificações
+
+### **AWS Certifications**
+| Certificação | ID da Credencial | Status | Badge |
+| :--- | :--- | :--- | :--- |
+| **AWS Certified Cloud Practitioner** | `db8fd270-4fbf-48df-9e41-e272a8613000` | ✅ Ativa | [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/...) |
+| **AWS Certified Solutions Architect - Associate** | `9b277438-4619-45d7-acca-a1b76b37fb10` | ✅ Ativa | [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/...) |
+| **AWS Certified Developer - Associate** | `e74c6e07-4933-49e9-8c3f-1d44c4a6dd08` | ✅ Ativa | [![AWS Certified Developer](https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/...) |
+| **AWS Certified SysOps Administrator – Associate** | `692080e9-f7f5-401e-811e-8c02902ccb01` | ✅ Ativa | [![AWS Certified SysOps Administrator](https://img.shields.io/badge/AWS-Certified_SysOps_Administrator_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/...) |
+| **AWS Certified Security - Specialty** | `f1cc0117-1a2f-44c8-b5bc-eb6189f5fda9` | ✅ Ativa | [![AWS Certified Security](https://img.shields.io/badge/AWS-Certified_Security_Specialty-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/...) |
+
+### **Cloud & Infrastructure**
+| Certificação | ID da Credencial | Status | Badge |
+| :--- | :--- | :--- | :--- |
+| **HashiCorp Certified: Terraform Associate** | `cad40839-1afc-40ed-a198-149d8fc5adcd` | ✅ Ativa | [![HashiCorp Certified Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.credly.com/badges/...) |
+
 ## 🤝 Vamos Conversar!
 
 - 💼 **LinkedIn:** [linkedin.com/in/joao-felipe-bb8933180](www.linkedin.com/in/joao-felipe-bb8933180)
@@ -71,9 +88,8 @@ No desenvolvimento, possuo conhecimentos complementares em Python, Shell Script 
 
 ## 📚 Atualmente Estudando
 
-- [Tecnologia ou conceito que está aprendendo]
-- [Outro tópico de estudo]
-- [Ferramenta ou framework novo]
+- Jenkins + eksctl
+- IaC (Ansible, Terraform e CloudFormation)
 
 ## 🎯 Metas para 2026
 
