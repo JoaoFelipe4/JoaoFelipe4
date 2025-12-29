@@ -1,37 +1,96 @@
-# Olá, sou João Felipe!
+# 👋 Olá, eu sou [Seu Nome]
 
-:computer: Engenharia da Computação | :earth_americas: Belo Horizonte, MG, Brasil
+Engenheiro de Cloud AWS especializado em construir e manter infraestruturas resilientes e escaláveis. Meu foco principal está em troubleshooting avançado em ambientes de nuvem, além de Kubernetes (EKS) e orquestração de containers com Docker.
+
+Implementação e otimização de soluções que garantem alta disponibilidade, segurança e desempenho, com expertise prática em Infraestrutura como Código (Terraform, CloudFormation), CI/CD e monitoramento (CloudWatch).
+
+No desenvolvimento, possuo conhecimentos complementares em Python, Shell Script e Go, aplicados no contexto de automação de infraestrutura, criação de scripts para deploy e desenvolvimento de operadores Kubernetes, mas não atuo profissionalmente como desenvolvedor de software.
+
+## 🛠️ Tech Stack
+
+### **Linguagens de Programação**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### **Banco de Dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## 📌 Projetos em Destaque
+
+### 🔥 [Medical Appointment System - Microservices Architecture](https://github.com/JoaoFelipe4/tcc-2025-microservices.git)
+**Tecnologias:** Docker, Node.js, MongoDB  
+[Este projeto implementa uma arquitetura de microsserviços para o sistema de agendamento de consultas médicas, dividido em 3 microsserviços independentes:
+
+- Auth Service - Autenticação e gerenciamento de usuários
+- Doctors Service - Gerenciamento de médicos, especialidades e disponibilidade
+- Patients Service - Gerenciamento de pacientes e agendamentos]
+
+### 🚀 [Frontend - Angular](https://github.com/JoaoFelipe4/tcc-2025-frontend-microservices.git)
+**Tecnologias:** Vue.js, Angular, AWS Amplify 
+[ Projeto Frontend para integração segura entre do app com o Amazon API Gateway, estilizado e componentizado ]
 
 
-:iphone: Contate-me:
+## 📈 Atividade Recente
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white])](www.linkedin.com/in/joão-felipe-bb8933180) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](johaoflp93@gmail.com)
+<!--START_SECTION:activity-->
+[Atividade será exibida automaticamente com github-readme-activity-generator]
+<!--END_SECTION:activity-->
 
-## :boy: Sobre mim
-- :computer: Cursando Engenharia da Computação
-- :bar_chart: Excel Expert
+## 🤝 Vamos Conversar!
 
-## :wrench: Atualmente trabalhando com
+- 💼 **LinkedIn:** [linkedin.com/in/joao-felipe-bb8933180](www.linkedin.com/in/joao-felipe-bb8933180)
+- 📧 **Email:** [gmail](mailto:johaoflp93@gmail.com)
 
-- Projetos pessoais
+## 📚 Atualmente Estudando
 
+- [Tecnologia ou conceito que está aprendendo]
+- [Outro tópico de estudo]
+- [Ferramenta ou framework novo]
 
-## :mag_right: Atualmente aprendendo
+## 🎯 Metas para 2026
 
-- Desenvolvimento BackEnd (Node.js: JavaScript/TypeScript)
-- Skills em desenvolvimento FrontEnd
+- [ ] Certificação Avançada AWS: Obter a certificação AWS Certified DevOps Engineer
+- [ ] Especialização em Kubernetes: Aprofundar conhecimentos em Service Mesh (Istio ou Linkerd) e Operators Kubernetes com Go.
+- [ ] Automação e IaC: Contribuir para um projeto open-source de Terraform
 
-## :bulb: Skills
+---
 
-![Static Badge](https://img.shields.io/badge/Code-C%23-grey?logo=C%20Sharp&logoColor=%23684D95&color=%23684D95)
-![Static Badge](https://img.shields.io/badge/Code-Node.js-grey?logo=Node.js&color=%233C873A)
-![Static Badge](https://img.shields.io/badge/Code-JavaScript-grey?logo=JavaScript&color=%23f7df1e)
-![Static Badge](https://img.shields.io/badge/Code-TypeScript-grey?logo=TypeScript&color=%23007acc)
-![Static Badge](https://img.shields.io/badge/Code-React-grey?logo=React&color=%2361DBFB)
-![Static Badge](https://img.shields.io/badge/Code-Python-grey?logo=Python&logoColor=white&labelColor=%23306998&color=%23FFD43B)
+<div align="center">
+  
+![Visitors](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=flat-square)
 
+**⭐️ "O código é poesia, e cada linha conta uma história."**
 
-![Static Badge](https://img.shields.io/badge/Data-Excel-grey?logo=Microsoft%20Excel&color=%2368A063)
+</div>
 
+---
 
-:facepunch:Obrigado pela visita! | :facepunch:Thanks for coming!
+**✨ Feito com ❤️ e muito café**
