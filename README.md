@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, meu nome é João Felipe
 
 Engenheiro de Cloud AWS especializado em construir e manter infraestruturas resilientes e escaláveis. Meu foco principal está em troubleshooting avançado em ambientes de nuvem, além de Kubernetes (EKS) e orquestração de containers com Docker.
 
