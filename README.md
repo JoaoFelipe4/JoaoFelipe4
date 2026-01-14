@@ -58,13 +58,6 @@ No desenvolvimento, possuo conhecimentos complementares em Python, Shell Script 
 [ Projeto Frontend para integração segura entre do app com o Amazon API Gateway, estilizado e componentizado ]
 
 
-## 📈 Atividade Recente
-
-<!--START_SECTION:activity-->
-[Atividade será exibida automaticamente com github-readme-activity-generator]
-<!--END_SECTION:activity-->
-
-
 ## 📜 Certificações
 
 ### **AWS Certifications**
