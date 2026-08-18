@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-felipe-alves)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johaoflp93@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoFelipe4)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/joao-felipe-alves)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/joao-alves.ea3ac0dc)
 
 ---
 
@@ -66,7 +66,7 @@ Possuo experiência sólida na arquitetura, sustentação e automação de ambie
 ### **AWS (Amazon Web Services)**
 | Certificação | Nível | ID Credencial | Status |
 | :--- | :---: | :---: | :---: |
-| **AWS Certified DevOps Engineer** | 🏆 Professional | `Verificado` | ✅ Ativa |
+| **AWS Certified DevOps Engineer** | 🏆 Professional | `aaa24c0a-c4f7-41eb-8d22-95070ffebe20` | ✅ Ativa |
 | **AWS Certified Security** | 🛡️ Specialty | `f1cc0117-1a2f-44c8-b5bc-eb6189f5fda9` | ✅ Ativa |
 | **AWS Certified Solutions Architect** | 📐 Associate | `9b277438-4619-45d7-acca-a1b76b37fb10` | ✅ Ativa |
 | **AWS Certified SysOps Administrator** | ⚙️ Associate | `692080e9-f7f5-401e-811e-8c02902ccb01` | ✅ Ativa |
