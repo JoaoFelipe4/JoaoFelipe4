@@ -82,6 +82,13 @@ Possuo experiência sólida na arquitetura, sustentação e automação de ambie
 
 ## 📌 Projetos em Destaque
 
+### 🚢 [Cloud-Native GitOps Platform (AWS EKS, Terraform & ArgoCD)](https://github.com/JoaoFelipe4/k8s-project)
+Plataforma corporativa end-to-end de infraestrutura declarativa e entrega contínua (CI/CD) utilizando o padrão-ouro da indústria (GitOps).
+* **Infraestrutura:** Automação completa de VPC, IAM OIDC, AWS ECR, AWS EKS e Application Load Balancers via **Terraform**.
+* **Observabilidade & FinOps:** Alertas proativos com Amazon CloudWatch e SNS, com estratégias de scale-out otimizadas para free-tier.
+* **CI/CD:** Pipelines de integração contínua (GitHub Actions) com *Write-back* automatizado para o repositório de configuração, orquestrados pelo **ArgoCD** para deployments com Zero-Downtime.
+* **Segurança:** Federação OIDC (Zero long-lived credentials), mascaramento de IDs sensíveis de conta via Kustomize e roles IAM estritas.
+
 ### 🏥 [Medical Appointment System - Arquitetura de Microsserviços](https://github.com/JoaoFelipe4/tcc-2025-microservices)
 Arquitetura completa de microsserviços desacoplados (Auth, Doctors e Patients) em containers Docker orquestrados para deploy em nuvem via AWS ECS/ECR.
 * **Stack:** Node.js, Express, MongoDB (NoSQL), Docker, AWS ECS/ECR, AWS Amplify Gen2.
